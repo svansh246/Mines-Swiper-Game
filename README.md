@@ -3,7 +3,11 @@
 A classic Minesweeper game built with Python and Tkinter, featuring a modern dark-themed user interface.
 
 ## Screen Shots
-![alt text](image.png)
+<img width="959" height="562" alt="Main_Interface" src="https://github.com/user-attachments/assets/9a13eecc-f245-435f-9540-953a9a0d0f0a" />
+
+<img width="959" height="562" alt="Game_Play1" src="https://github.com/user-attachments/assets/f3a22806-924d-43a7-9f2f-3e1165105fd5" />
+
+<img width="959" height="542" alt="Game_play2" src="https://github.com/user-attachments/assets/d8ef8b9e-2170-4c8c-ae92-d7dfe8a7e017" />
 
 ## ✨ Features
 
